@@ -2,13 +2,11 @@
 
 Olá, esse é o nosso livro de receitas
 
-### Receitas Salgadas
+## Receitas Salgadas
 
 - <a href="receitas/strogonoff.md">Strogonnoff de frango</a>
 
-
-
-### Receitas Doces 
+## Receitas Doces 
 
 - [Pavê de Chocolate]()
 - [Pudim]()
