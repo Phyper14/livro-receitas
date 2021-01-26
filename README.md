@@ -2,7 +2,7 @@
 
 Olá, esse é o nosso livro de receitas
 
-- Strogonnoff de frango
+- <a href="receitas/strogonoff.md">Strogonnoff de frango
 - Pavê
 - Pudim
 - Bolo de Laranja 
